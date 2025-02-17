@@ -1,4 +1,4 @@
 Flask
-twilio==7.10.0
+twilio
 cohere
 
